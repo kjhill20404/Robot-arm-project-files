@@ -1,0 +1,9 @@
+x1 Nunchuk: https://amzn.to/3llRvkm 
+	Alternatively 1x generic Nunchuk - color code may differ, check wiring: https://amzn.to/3ykZ0LM
+
+x2 Arduino Nano: https://amzn.to/3zZwQqd
+
+x2 NRF24L01: https://amzn.to/3lkK50z
+	Alternatively for more range - x2 NRF24L01 w/ PA&LNA: https://amzn.to/2WAKBx2
+
+x2 AMS1117: https://amzn.to/3xcvhn2
